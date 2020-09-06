@@ -1,0 +1,40 @@
+No.,Variable,Class,Description
+1,id,numeric,Unique listing ID
+2,last_scraped,date,Latest scrapped data
+3,host_id,numeric,Host ID
+4,host_name,factor,Name of the host
+5,host_since,date,The date of user listed as a host
+6,host_response_time,factor,How long  the host response to user's request
+7,host_response_rate,factor,Percentage of host response time to numbers of request
+8,host_acceptance_rate,factor,Percentage of host accepts the request to numbers of request
+9,host_is_superhost,logical,Whether the host is super host
+10,host_total_listings_count,factor,Amount of listing a host have
+11,neighbourhood_cleansed,factor,Area in London
+12,city,factor,City in London
+13,latitude,numeric,Latitude coordinates
+14,longitude,numeric,Longitude coordinates
+15,room_type,factor,"The type of room provided in the listing (Entire home/apt, Private room, or Shared room)"
+16,accommodates,numeric,The number of people that the listing can accommodate
+17,bathrooms,numeric,The number of bathrooms in the listing
+18,bedrooms,numeric,The number of bedrooms in the listing
+19,beds,numeric,The number of beds in the listing
+20,price,numeric,The price to stay in the listing for one night.
+21,security_deposit,numeric,The price of security deposit according to 60% of a listing's nightly rate
+22,cleaning_fee,numeric,"Additional charge for cleaning the listing, set by the hosts and paid once"
+24,minimum_nights,numeric,Amount of minimum nights
+25,availability_30,numeric,Number of days when listing is available in a month for booking
+26,availability_60,numeric,Number of days when listing is available in two months for booking
+27,availability_90,numeric,Number of days when listing is available in three months for booking
+28,availability_365,numeric,Number of days when listing is available in a year for booking
+29,number_of_reviews,numeric,Amount of reviews the listing get
+30,last_review,date,Latest review
+31,review_scores_rating,factor,Rating for host for the overall experience
+32,review_scores_accuracy,factor,Rating for host for the overall accuracy
+33,review_scores_cleanliness,factor,Rating for host for the overall cleanliness
+34,review_scores_checkin,factor,Rating for host for the overall check-in
+35,review_scores_communication,factor,Rating for host for the overall host communication with a user
+36,review_scores_location,factor,Rating for host for the overall listing location
+37,review_scores_value,factor,Rating for host for the overall listing vallue
+38,instant_bookable,logical,Whether the listing is instant bookable
+39,cancellation_policy,factor,The type of cancelation policy
+40,reviews_per_month,numeric,Amount of reviews per month the listing get

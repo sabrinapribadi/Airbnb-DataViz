@@ -1,0 +1,11 @@
+Packages,Description
+tidyverse,"Collection of R packages (tidyr, dplyr, ggplot2) designed for data science that works harmoniously with other packages"
+tidyr,"Changing the layout of the data sets, to convert data into a tidy format"
+dplyr,For data manipulation
+ggplot2,Customizable graphical representation
+lubridate,Dates formatting
+caret,For data Pre-Processing and Feature Selection
+data.table,For data manipulation that can be reducing programming and compute time tremendously
+DT,An R interface to the DataTables library
+kableExtra,Styling an Interactive Data Tables within Markdown
+knitr,A general-purpose tool for dynamic report generation
