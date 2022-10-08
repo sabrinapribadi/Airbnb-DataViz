@@ -1,7 +1,5 @@
 # **Airbnb Data Visualization** 
 
-> This is a project as part of  Learn by Building module in [Algoritma](https://algorit.ma/) Data Science Workshop.
-
 ### **Description**
 The objective of this project is to understand the factors that **influence the prices listed** on Airbnb in London. It derives from curiosity about specific factors that cause the rental prices for leasing short-term lodging seems easily changed over time. 
 
